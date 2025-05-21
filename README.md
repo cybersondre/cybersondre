@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi
+
+My name is Sondre or cybersondre. I'm a student with passion for cybersecurity og technology 🖥️ I love diving into new technologies and figuring out how they work.
+Right now, I'm have a Bachelor's in Digital Infrastructure and Cybersecurity. Retaking some courses before starting on my mastersdegree.
+
+Outside of classes, I spend my time playing CTFs and working part-time in IT support.
+Also:
+👨🏼‍💻 Certified in ICT support (Norwegian fagbrev)
+🎮 Big-time gamer
+🏃 Love to run, lift and cycle
+
 
 <!--
 **cybersondre/cybersondre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

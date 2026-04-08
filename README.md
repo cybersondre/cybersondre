@@ -1,7 +1,7 @@
 ## Hi
 
 My name is Sondre or cybersondre. I'm a student with passion for cybersecurity og technology 🖥️ I love diving into new technologies and figuring out how they work.
-Right now, I'm have a Bachelor's in Digital Infrastructure and Cybersecurity. Retaking some courses before starting on my mastersdegree.
+Currently taking a Bachelor's in Digital Infrastructure and Cybersecurity at NTNU Gjøvik.
 
 Outside of classes, I spend my time playing CTFs and working part-time in IT support.
 Also:
